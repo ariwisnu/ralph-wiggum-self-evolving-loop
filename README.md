@@ -4,7 +4,7 @@
 ![Questions Tested](https://img.shields.io/badge/Questions_Tested-104-blue?style=for-the-badge)
 ![Winning Score](https://img.shields.io/badge/Winning_Score-0%25_Consensus-gold?style=for-the-badge)
 
-An automated infinite loop research workflow that generates questions designed to **break modern LLMs**. The goal is to find simple, generic questions that any human can easily answer, but cause AI models to disagree.
+a ralph wiggum self evolving loop that generates questions designed to **break modern LLMs**. The goal is to find simple, generic questions that any human can easily answer, but cause AI models to disagree.
 
 <p align="center">
   <img src="!/claude-infinity.svg" alt="Claude Code infinity" width="120" height="100">
