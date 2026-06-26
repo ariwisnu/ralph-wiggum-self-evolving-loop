@@ -1151,3 +1151,25 @@
     research_activity: null
     started_at: "23/04/2026 03:33 PM PST"
     completed_at: "23/04/2026 03:42 PM PST"
+
+  - id: 106
+    question: "I hang from the roof in winter, and the warmer the day gets, the longer I grow. What am I?"
+    answer: "Icicle — icicles grow longer on warmer days via melt-refreeze cycle (meltwater drips and refreezes at tip)"
+    status: completed
+    folder: research106
+    score: 100
+    research_status: need_more_research
+    research_activity: "Premise error: icicle IS physically correct answer via melt-refreeze cycle — warmth melts snow above, water drips, refreezes at tip. Not a valid LLM trap. All 5 agents answered correctly. opus-researcher update skipped: permission denied."
+    started_at: "26/06/2026 11:29 AM PST"
+    completed_at: "26/06/2026 11:56 AM PST"
+
+  - id: 107
+    question: "I am always hungry and must always be fed; the finger I touch will soon turn red — yet the farther you stand from me, the warmer you feel. What am I?"
+    answer: "The premise is false — this is the famous fire riddle, but the final clue is physically false (fire feels warmer the CLOSER you are, not farther). No valid answer exists; the correct response is to reject the false premise."
+    status: completed
+    folder: research107
+    score: 0
+    research_status: complete
+    research_activity: "All 5 agents answered 'Fire' — they detected the false premise but still gave canonical wrong answer. MCP tools failed (Tavily 432, Reddit 401)."
+    started_at: "26/06/2026 09:12 PM PST"
+    completed_at: "26/06/2026 09:30 PM PST"
