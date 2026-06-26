@@ -1173,3 +1173,14 @@
     research_activity: "All 5 agents answered 'Fire' — they detected the false premise but still gave canonical wrong answer. MCP tools failed (Tavily 432, Reddit 401)."
     started_at: "26/06/2026 09:12 PM PST"
     completed_at: "26/06/2026 09:30 PM PST"
+
+  - id: 108
+    question: "I have no mouth, but I repeat every word you say. I have no body, but I answer you from far away. And the farther you move from me, the louder my reply. What am I?"
+    answer: "Reject the false premise — echo riddle with inverted loudness-vs-distance claim. Echoes get FAINTER the farther you are, never louder. No valid answer exists."
+    status: completed
+    folder: research108
+    score: 0
+    research_status: complete
+    research_activity: "All 5 agents answered 'Echo' despite noting the false clue. MCP tools failed (Tavily 432, Reddit 401)."
+    started_at: "26/06/2026 10:16 PM PST"
+    completed_at: "26/06/2026 10:25 PM PST"
